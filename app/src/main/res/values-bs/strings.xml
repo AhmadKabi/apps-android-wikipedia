@@ -347,7 +347,7 @@
   <string name="view_continue_reading_card_title">Nastavite sa čitanjem</string>
   <string name="view_because_you_read_card_title">Budući da ste pročitali</string>
   <string name="view_random_card_title">Nasumična stranica</string>
-  <string name="view_random_card_subtitle">Pročitajte nasumično odabran članak s Wikipedije</string>
+  <string name="view_random_card_subtitle" fuzzy="true">Pročitajte nasumično odabran članak s Wikipedije</string>
   <string name="view_main_page_card_title">Danas na Wikipediji</string>
   <string name="view_main_page_card_subtitle">Početna strana %s</string>
   <string name="view_featured_image_card_title">Slika dana</string>
@@ -361,11 +361,11 @@
   <string name="most_read_list_card_title">Aktualno</string>
   <string name="view_static_card_icon_content_description">Ikona kartice</string>
   <string name="view_card_news_title">Vijesti</string>
-  <plurals name="view_continue_reading_card_subtitle">
+  <plurals name="view_continue_reading_card_subtitle" fuzzy="true">
     <item quantity="one">Jučer</item>
     <item quantity="other">prije %d dana</item>
   </plurals>
-  <string name="view_continue_reading_card_subtitle_today">Danas</string>
+  <string name="view_continue_reading_card_subtitle_today" fuzzy="true">Danas</string>
   <string name="view_announcement_card_negative_action">Ne, hvala</string>
   <string name="view_offline_card_text">Sadržaj se ne može učitati dok ste van mreže.</string>
   <string name="view_featured_article_card_title">Odabrani članak</string>
@@ -413,7 +413,7 @@
   <string name="offline_my_compilations" fuzzy="true">Moje zbirke</string>
   <string name="offline_compilations_title" fuzzy="true">Vanmrežne zbirke</string>
   <string name="offline_compilations_search_by_name" fuzzy="true">Pretraži zbirke po imenu</string>
-  <string name="offline_compilations_found_count">U mojoj biblioteci (%d)</string>
+  <string name="offline_compilations_found_count" fuzzy="true">U mojoj biblioteci (%d)</string>
   <string name="offline_compilations_add">Dodaj u vanmrežnu biblioteku</string>
   <string name="remote_compilations_title">Vanmrežna biblioteka</string>
   <string name="offline_compilation_detail_button_download">Preuzmi • %.2f GB</string>
@@ -438,7 +438,7 @@
   <string name="onboarding_continue">Nastavi</string>
   <string name="onboarding_get_started">Započnite</string>
   <string name="onboarding_explore_title">Novi načini za istraživanje</string>
-  <string name="onboarding_explore_text">Otkrijte odabrane članke, aktualne teme i prijedloge za čitanje na ekranu \"Istraži\".</string>
+  <string name="onboarding_explore_text" fuzzy="true">Otkrijte odabrane članke, aktualne teme i prijedloge za čitanje na ekranu \"Istraži\".</string>
   <string name="onboarding_reading_list_sync_title">Spiskovi za čitanje sa sinhroniziranjem</string>
   <string name="onboarding_reading_list_sync_text">Napravite spiskove za čitanje od članaka koje želite pročitati kasnije, čak i kad niste na mreži. &lt;a href=\"#login\"&gt;Prijavite se ili napravite&lt;/a&gt; račun na Wikipediji da biste imali pričuvnu kopiju spiskova.</string>
   <string name="onboarding_analytics_title">Šalji anonimne podatke</string>
